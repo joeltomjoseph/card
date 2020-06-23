@@ -1,0 +1,37 @@
+:root {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.container {
+    width: 250px;
+    height: auto;
+    padding: 20px 30px;
+    background-color: #DBDBDB;
+    border-radius: 10px;
+    box-shadow: 0 0 50px 0 #000;
+    margin: auto;
+}
+
+body {
+    background-color: #ABC8C7;
+}
+
+ul, li {
+    text-align: center;
+    list-style-type: none;
+    padding: 0px;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+footer {
+    background-color: #A5B5BF;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 0 20px black;
+}
